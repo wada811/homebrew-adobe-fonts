@@ -4,9 +4,10 @@ Adobe made a questionable decision to rename their Source family of fonts to inc
 
 ## How do I install these fonts?
 
-`brew install iandol/adobe-fonts/<cask>`
-
-Or `brew tap iandol/adobe-fonts` and then `brew install <cask>`.
+```
+brew tap wada811/adobe-fonts
+brew install wada811/adobe-fonts/font-source-code-jp
+```
 
 ## Documentation
 
